@@ -22,6 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 enum keymap_layers {
 	_ISRT,
 	_GAME,
+    _QWER,
 	_NAVI,
 	_NUMB,
 	_FUNCT
